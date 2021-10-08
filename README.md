@@ -33,7 +33,7 @@
 
 ## About The Project
 
-Covert JPG to PNG
+Watermark pdf files
 
 ### Built With
 
